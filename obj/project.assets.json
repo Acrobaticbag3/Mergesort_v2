@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mtjoh\\OneDrive\\Skrivbord\\Mergesort_v2\\Merge_sort_v2.csproj",
+      "projectUniqueName": "C:\\Users\\mtjoh\\OneDrive\\Dokument\\GitHub\\Mergesort_v2\\Merge_sort_v2.csproj",
       "projectName": "Merge_sort_v2",
-      "projectPath": "C:\\Users\\mtjoh\\OneDrive\\Skrivbord\\Mergesort_v2\\Merge_sort_v2.csproj",
+      "projectPath": "C:\\Users\\mtjoh\\OneDrive\\Dokument\\GitHub\\Mergesort_v2\\Merge_sort_v2.csproj",
       "packagesPath": "C:\\Users\\mtjoh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mtjoh\\OneDrive\\Skrivbord\\Mergesort_v2\\obj\\",
+      "outputPath": "C:\\Users\\mtjoh\\OneDrive\\Dokument\\GitHub\\Mergesort_v2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mtjoh\\AppData\\Roaming\\NuGet\\NuGet.Config"

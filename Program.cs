@@ -10,7 +10,7 @@ namespace Mergesort_v2 {
             int arrayLength = numberArray.Length; // The length of the array.
 
             Console.WriteLine("= = = = = = = = = = = = = = = = = = = =");
-            Console.WriteLine("Before Merge Sort:");
+            Console.WriteLine("Before Mergesort:");
             Console.WriteLine("= = = = = = = = = = = = = = = = = = = = \n");
             Console.ReadKey();
 
@@ -20,7 +20,7 @@ namespace Mergesort_v2 {
             }
 
             Console.WriteLine("\n= = = = = = = = = = = = = = = = = = = =");
-            Console.WriteLine("Begin Merge Sort");
+            Console.WriteLine("After Mergesort");
             Console.WriteLine("= = = = = = = = = = = = = = = = = = = =");
             Console.ReadKey();
             var timer = Stopwatch.StartNew();
